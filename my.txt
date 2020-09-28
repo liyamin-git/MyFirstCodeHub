@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-bbbbccccccccccccc
-
 增加一个master
-=======
-这个是分支
->>>>>>> MyFirstBranch
+增加一个master
+增加一个master
+增加一个master
+增加一个master
+增加一个master
+
